@@ -1,3 +1,0 @@
-[submodule "libs/mLoRA"]
-	path = libs/mLoRA
-	url = https://github.com/mikecovlee/mLoRA.git
